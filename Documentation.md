@@ -7,9 +7,7 @@ junctions within its structure and is mainly used to amplify current."
 which were highly expensive, those too were available in the form of a triode which 
 was a three-terminal device like a transistor back then. 
 
-- The working principle of both the NPN and PNP transistor is almost the same, both of 
-them differ in the conduction of current through charge carriers based on the majority 
-and minority of charge carriers.
+
 
 **the NPN Bipolar junction Transistor has the majority of charge carriers as electrons.**  
 **The PNP Bipolar junction Transistor has the majority of charge carriers as holes.**
